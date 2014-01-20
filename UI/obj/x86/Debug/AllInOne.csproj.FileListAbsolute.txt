@@ -1,0 +1,8 @@
+E:\360downloads\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+E:\360downloads\AllInOne\obj\x86\Debug\AllInOne.MainForm.resources
+E:\360downloads\AllInOne\obj\x86\Debug\AllInOne.csproj.GenerateResource.Cache
+E:\360downloads\AllInOne\bin\Debug\Base.html
+E:\360downloads\AllInOne\bin\Debug\AllInOne.exe
+E:\360downloads\AllInOne\bin\Debug\AllInOne.pdb
+E:\360downloads\AllInOne\obj\x86\Debug\AllInOne.exe
+E:\360downloads\AllInOne\obj\x86\Debug\AllInOne.pdb
